@@ -1,0 +1,38 @@
+This data file is a pickle of a pandas DataFrame.  It is derived from the Iowa_Spirit_Sales database, downloaded on Jan 4,2017. The date should be complete through 12/31/2016.
+
+The sale_20xx fields are annual sales for all reported rows. The store_count_20xx fields are stores reporting sales during that year. Finally, the 20xxQx fields are the quarterly sales.  There are null values represented as NaN, or np.nan.
+
+
+Fields:
+zip_code            359 non-null int64
+sale_2016           359 non-null float64
+store_count_2016    359 non-null int64
+sale_2015           359 non-null float64
+store_count_2015    359 non-null int64
+sale_2014           359 non-null float64
+store_count_2014    359 non-null int64
+sale_2013           359 non-null float64
+store_count_2013    359 non-null int64
+sale_2012           359 non-null float64
+store_count_2012    359 non-null int64
+2012Q1              347 non-null float64
+2012Q2              350 non-null float64
+2012Q3              356 non-null float64
+2012Q4              358 non-null float64
+2013Q1              359 non-null float64
+2013Q2              359 non-null float64
+2013Q3              359 non-null float64
+2013Q4              359 non-null float64
+2014Q1              357 non-null float64
+2014Q2              358 non-null float64
+2014Q3              359 non-null float64
+2014Q4              358 non-null float64
+2015Q1              359 non-null float64
+2015Q2              359 non-null float64
+2015Q3              358 non-null float64
+2015Q4              358 non-null float64
+2016Q1              357 non-null float64
+2016Q2              358 non-null float64
+2016Q3              356 non-null float64
+2016Q4              357 non-null float64
+
